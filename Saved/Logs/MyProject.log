@@ -1603,3 +1603,34 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.24-16.11.53:348][  3]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.24-16.17.57:448][506]BlueprintLog: New page: Compile Timer
 [2023.06.24-16.17.57:487][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.06.24-16.22.02:515][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.06.24-16.22.02:518][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK_Auto3
+[2023.06.24-16.22.02:518][912]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/5RQIHCZ9W3UXRGL4LTLQAK_Auto3F98849D648A90361FD6C80A03071B777.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK_Auto3.uasset'
+[2023.06.24-16.22.02:519][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2023.06.24-16.22.02:519][912]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.06.24-16.22.02:519][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.06.24-16.22.02:553][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.06.24-16.22.02:553][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.06.24-16.22.02:561][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2023.06.24-16.22.02:561][912]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/BP_FirstPersonCharacter_Auto3216CAC5C46144110BC156F9C3E13E41B.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2023.06.24-16.22.02:562][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Timer] ([2] browsable assets)...
+[2023.06.24-16.22.02:566][912]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Timer.Timer]
+[2023.06.24-16.22.02:566][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Timer]
+[2023.06.24-16.22.02:566][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer" FILE="../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Autosaves/Game/Timer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.06.24-16.22.02:572][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Timer_Auto3
+[2023.06.24-16.22.02:572][912]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Timer_Auto360F30A9040D5D51F518736A76FF88D70.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Autosaves/Game/Timer_Auto3.uasset'
+[2023.06.24-16.22.02:573][912]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.06.24-16.23.20:815][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.24-16.23.20:818][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.24-16.23.20:873][ 13]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK
+[2023.06.24-16.23.20:874][ 13]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/5RQIHCZ9W3UXRGL4LTLQAK3AF4798F4967469B5C977195105361A7.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset'
+[2023.06.24-16.23.20:882][ 13]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.06.24-16.23.20:883][ 13]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/BP_FirstPersonCharacter374C68DE48C7607AC4E24FAF4785A1D0.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.06.24-16.23.20:884][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer" FILE="../../../../../Documents/Unreal Projects/MyProject 5.2/Content/Timer.uasset" SILENT=true
+[2023.06.24-16.23.20:888][ 13]LogSavePackage: Moving output files for package: /Game/Timer
+[2023.06.24-16.23.20:889][ 13]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MyProject 5.2/Saved/Timer7346F81B42FA7EE6264CF2B43B74AE31.tmp' to '../../../../../Documents/Unreal Projects/MyProject 5.2/Content/Timer.uasset'
+[2023.06.24-16.23.20:896][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms
+[2023.06.24-16.23.20:902][ 13]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.24-16.23.20:902][ 13]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.06.24-16.23.20:902][ 13]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Timer.Timer
+[2023.06.24-16.23.20:902][ 13]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
